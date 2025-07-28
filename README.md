@@ -1,4 +1,4 @@
-Codebase for the article: "More with less: Simulation-based inference enables accurate diffusion-weighted MRI with minimal acquisition time"
+Codebase for the article: "Simulation-Based Inference at the Theoretical Limit: Fast, Accurate Microstructural MRI with Minimal diffusion MRI Data"
 
 Link to the HCP data used in this study can be found [here](https://www.dropbox.com/scl/fo/ju98vjytfc9770txs5l6x/APVZsLQ_WIHhDhl9PXwJkyU?rlkey=doby7x7snb6tp5is3etvhm8id&st=dwef5m5u&dl=0). 
 
